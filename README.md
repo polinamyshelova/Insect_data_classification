@@ -8,4 +8,4 @@ The dataset was cleared from duplicates. Also it has been added with new images 
 
 The constructed model was used in the telegram bot for image classification.
 
-
+![alt text](https://github.com/polinamyshelova/Insect_data_classification/blob/main/ladybird.jpg?raw=true)
