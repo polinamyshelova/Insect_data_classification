@@ -1,6 +1,6 @@
 ### Insect data classification
 
-The aim of this project is to train a convolutional neural network (CNN) for image classification. Insects Recognition datasen was taken as a basis.
+The aim of this project is to train a convolutional neural network (CNN) for image classification. Insects Recognition dataset was taken as a basis.
 
 >https://www.kaggle.com/datasets/hammaadali/insects-recognition
 
